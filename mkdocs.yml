@@ -4,5 +4,6 @@ nav:
     - Principal: index.md
     - Acerca de: about.md
     - Blogs: blog.md
+    - Documentacion iaw: documentacion.md
 
 theme: material
