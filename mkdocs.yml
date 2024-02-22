@@ -8,5 +8,8 @@ nav:
 
 theme: 
     name: material
+    palette: 
+        primary: deep purple
+        accent: orange
     font:
-        text: Roboto
+        text: Anta
