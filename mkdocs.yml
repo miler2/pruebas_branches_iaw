@@ -9,7 +9,7 @@ nav:
 theme: 
     name: material
     language: en
-    logo: docs/images/logo.png
+    logo: images/logo.png
     palette: 
         primary: deep purple
         accent: orange
